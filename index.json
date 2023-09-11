@@ -1,30 +1,23 @@
 {
-  "beginner" : {
-      "basics" :
-            { 
-            "intro" : "Keep Your Personal Information Private Online
-Sharing too much personal information online can seriously compromise your privacy. Companies and hackers can use your details for profiling, tracking, identity theft and other harmful activities without your consent. Protecting your privacy should be a top concern for all of your online activities.",
-              "tips" : "-Only provide necessary personal details online when required
--Use nicknames or pseudonyms instead of real names when possible
--Check app/website privacy policies before using
--Adjust social media privacy settings to limit sharing
--Provide fake or limited info if asked for unnecessary details",
-              "keyTakeaways" : "-Think carefully before posting any personal details publicly online
--Only share necessary info and use pseudonyms/nicknames where possible
-Check how websites/apps will use your data before providing it"
-
-              
-
-              
-
-            
-            }
-  
-  }
-
-
-
-
-
-
+"beginner": {
+"basics": {
+"intro": "Keep Your Personal Information Private Online. Sharing too much personal information online can seriously compromise your privacy. Companies and hackers can use your details for profiling, tracking, identity theft, and other harmful activities without your consent. Protecting your privacy should be a top concern for all of your online activities.",
+"tips": [
+"Only provide necessary personal details online when required",
+"Use nicknames or pseudonyms instead of real names when possible",
+"Check app/website privacy policies before using",
+"Adjust social media privacy settings to limit sharing",
+"Provide fake or limited info if asked for unnecessary details"
+],
+"keyTakeaways": [
+"Think carefully before posting any personal details publicly online",
+"Only share necessary info and use pseudonyms/nicknames where possible",
+"Check how websites/apps will use your data before providing it"
+]
 }
+}
+}
+
+
+
+
