@@ -17,7 +17,7 @@
 }
 "passwords":{
 "intro1": "Weak passwords leave your accounts and devices vulnerable to hacking. Follow these tips to create secure passwords that will keep your information protected."
-"tips":[
+"tips1":[
 "Use 12-14 characters, mixing upper/lowercase letters, numbers and symbols. The longer the better.",
 "Avoid common words, names, dates, or any personal info. These are easy to guess.",
 "Don't use the same password for multiple accounts. If one is breached, they all will be.",
