@@ -16,8 +16,8 @@
       ]
     },
     "passwords": {
-      "intro1": "Weak passwords leave your accounts and devices vulnerable to hacking. Follow these tips to create secure passwords that will keep your information protected.",
-      "tips1": [
+      "intro": "Weak passwords leave your accounts and devices vulnerable to hacking. Follow these tips to create secure passwords that will keep your information protected.",
+      "tips": [
         "Use 12-14 characters, mixing upper/lowercase letters, numbers, and symbols. The longer the better.",
         "Avoid common words, names, dates, or any personal info. These are easy to guess.",
         "Don't use the same password for multiple accounts. If one is breached, they all will be.",
@@ -26,7 +26,7 @@
         "Never share passwords over email, chat, or phone. Legitimate services will not ask for them.",
         "On devices, use strong PIN codes, fingerprints, or facial recognition for logins when possible."
       ],
-      "keyTakeaways1": [
+      "keyTakeaways": [
         "Use 12-14 characters mixing letters, numbers, and symbols",
         "Never base on personal info or reuse passwords",
         "Use a password manager to stay organized",
@@ -34,8 +34,8 @@
       ]
     },
     "websites": {
-      "intro2": "With online threats like hacking, fraud, and identity theft on the rise, it's critically important to verify that a website is secure before entering any sensitive information like your login credentials, financial details, or personal data. Unfortunately, it can be tricky for everyday internet users to recognize signs of a legitimate, encrypted website. There are a few key indicators you need to check for - like 'https' URLs, padlock icons, and SSL certificates - to determine if a site is authentic and your connection to it is private. Taking just a quick moment to validate these security signals can protect you from cybercriminals and prevent your information from being intercepted or stolen as it's transmitted online. Don't let unfamiliar technical terms intimidate you - this tutorial will break down step-by-step what to look for so you can identify secure sites and browse the web safely.",
-      "tips2": [
+      "intro": "With online threats like hacking, fraud, and identity theft on the rise, it's critically important to verify that a website is secure before entering any sensitive information like your login credentials, financial details, or personal data. Unfortunately, it can be tricky for everyday internet users to recognize signs of a legitimate, encrypted website. There are a few key indicators you need to check for - like 'https' URLs, padlock icons, and SSL certificates - to determine if a site is authentic and your connection to it is private. Taking just a quick moment to validate these security signals can protect you from cybercriminals and prevent your information from being intercepted or stolen as it's transmitted online. Don't let unfamiliar technical terms intimidate you - this tutorial will break down step-by-step what to look for so you can identify secure sites and browse the web safely.",
+      "tips": [
         "Check that the URL begins with 'https://' not just 'http://.' The 's' means it's secure.",
         "Look for a padlock icon next to the URL bar. This also indicates the site uses encryption.",
         "Click the padlock and verify the site has a valid, trusted SSL certificate.",
@@ -43,32 +43,31 @@
         "Be wary of misspellings or substitutes in the URL (like using 'zero' instead of 'o').",
         "Never ignore browser warnings about invalid certificates or not secure connections."
       ],
-      "keyTakeaways2": [
+      "keyTakeaways": [
         "Only enter sensitive data on 'https://' websites",
         "Verify padlock icons and valid SSL certificates",
         "Heed all browser warnings about invalid sites",
         "Avoid sites with misspellings or typos"
       ]
-    }
+    },
     "strongPasswords": {
-      "intro3": "Weak passwords leave your accounts and devices vulnerable to hacking. Follow these tips to create secure passwords that will keep your information protected."
-      "tips3": [
-          "Use 12-14 characters, mixing upper/lowercase letters, numbers and symbols. The longer the better.",
-          "Avoid common words, names, dates or any personal info. These are easy to guess.",
-          "Don't use the same password for multiple accounts. If one is breached, they all will be.",
-          "Consider using a password manager app to generate and store unique passwords.",
-          "Change passwords every 90 days, especially for financial accounts or work devices.",
-          "Never share passwords over email, chat or phone. Legitimate services will not ask for them.",
-          "On devices, use strong PIN codes, fingerprints or facial recognition for logins when possible."
-        ],
-      "keyTakeaways3": [
+      "intro": "Weak passwords leave your accounts and devices vulnerable to hacking. Follow these tips to create secure passwords that will keep your information protected.",
+      "tips": [
+        "Use 12-14 characters, mixing upper/lowercase letters, numbers and symbols. The longer the better.",
+        "Avoid common words, names, dates or any personal info. These are easy to guess.",
+        "Don't use the same password for multiple accounts. If one is breached, they all will be.",
+        "Consider using a password manager app to generate and store unique passwords.",
+        "Change passwords every 90 days, especially for financial accounts or work devices.",
+        "Never share passwords over email, chat or phone. Legitimate services will not ask for them.",
+        "On devices, use strong PIN codes, fingerprints or facial recognition for logins when possible."
+      ],
+      "keyTakeaways": [
         "Use 12-14 characters mixing letters, numbers and symbols",
         "Never base on personal info or reuse passwords",
         "Use a password manager to stay organized",
         "Change passwords frequently, especially for sensitive accounts"
       ]
-      
-
     }
   }
 }
+
