@@ -50,24 +50,41 @@
         "Avoid sites with misspellings or typos"
       ]
     },
-    "strongPasswords": {
-      "intro": "Weak passwords leave your accounts and devices vulnerable to hacking. Follow these tips to create secure passwords that will keep your information protected.",
+    "phising": {
+      "intro": "Phishing is one of the most common and dangerous cyber threats facing internet users today. These sophisticated scams use social engineering techniques to fool victims into handing over sensitive information and can result in identity theft, financial fraud, and compromised accounts. It is critical that you be able to recognize the hallmark signals of a phishing attempt so you can avoid being duped. Criminals have gotten extremely skilled at creating authentic looking messages, websites, and communications that users unfortunately fall for. A little awareness and vigilance goes a long way in protecting yourself. This tutorial will cover the variety of ways phishing can occur over email, text, social media, and websites. I'll also provide key indicators to watch for and steps you can take to vet legitimacy before responding or clicking on anything suspicious. Don't let scammers catch you off guard - you can outsmart them by learning their tricks.",
       "tips": [
-        "Use 12-14 characters, mixing upper/lowercase letters, numbers and symbols. The longer the better.",
-        "Avoid common words, names, dates or any personal info. These are easy to guess.",
-        "Don't use the same password for multiple accounts. If one is breached, they all will be.",
-        "Consider using a password manager app to generate and store unique passwords.",
-        "Change passwords every 90 days, especially for financial accounts or work devices.",
-        "Never share passwords over email, chat or phone. Legitimate services will not ask for them.",
-        "On devices, use strong PIN codes, fingerprints or facial recognition for logins when possible."
-      ],
+        "Watch for suspicious links sent via email, text or social media messages. Don't click on them.",
+        "Check for poor spelling/grammar, threats, false urgency or requests for sensitive information.",
+        "Verify the sender's email address or account name. Scammers often spoof legitimate businesses.",
+        "Inspect URLs carefully. Fake sites use similar spellings or substitutes.",
+        "Call companies directly using official numbers to check if requests are valid.",
+        "Check for lack of HTTPS, padlock icons, and valid site certificates before entering info."
+         ],
       "keyTakeaways": [
-        "Use 12-14 characters mixing letters, numbers and symbols",
-        "Never base on personal info or reuse passwords",
-        "Use a password manager to stay organized",
-        "Change passwords frequently, especially for sensitive accounts"
+        "Analyze links/senders closely before clicking",
+        "Watch for urgent requests for private details",
+        "Verify legitimacy directly with companies",
+        "Check sites for HTTPS, padlocks, certificates"
       ]
     }
+    "anti-virus":{
+      "intro4": "Viruses, malware, spyware, ransomware - the online world is filled with insidious threats aiming to infect your devices and compromise your security. The consequences can be devastating, from identity theft to wiped systems. That's why protecting your devices with a trusted antivirus is one of the most fundamental cybersecurity measures everyone should take.But with so many options out there, how do you select effective antivirus software? This tutorial will cover the key features to look for and best practices to ensure your antivirus is proactively defending across devices. Don't leave the door open for cybercriminals - a robust antivirus acts as an indispensable shield against digital infections.",
+      "tips4": [
+        "Choose software from well-known cybersecurity vendors like Norton, McAfee, AVG, Avast, etc.",
+        "Ensure real-time scanning and active monitoring of all device activity.",
+        "Check that it scans downloads, networks, email attachments, and web traffic.",
+        "Select products offering extra features like firewalls, VPNs, or password managers.",
+        "Opt for software with artificial intelligence and heuristics to detect new threats.",
+        "Make sure all your devices are covered - PCs, phones, tablets, networks."
+      ],
+    "keyTakeaways4": [
+        "Use trusted, robust cybersecurity software",
+        "Ensure real-time scanning across all devices",
+        "Keep antivirus updated and patched",
+        "Utilize extra security tools like VPNs"
+    ]
+    }
+    
   }
 }
 
