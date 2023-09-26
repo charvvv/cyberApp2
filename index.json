@@ -66,7 +66,7 @@
         "Verify legitimacy directly with companies",
         "Check sites for HTTPS, padlocks, certificates"
       ]
-    }
+    },
     "anti-virus":{
       "intro4": "Viruses, malware, spyware, ransomware - the online world is filled with insidious threats aiming to infect your devices and compromise your security. The consequences can be devastating, from identity theft to wiped systems. That's why protecting your devices with a trusted antivirus is one of the most fundamental cybersecurity measures everyone should take.But with so many options out there, how do you select effective antivirus software? This tutorial will cover the key features to look for and best practices to ensure your antivirus is proactively defending across devices. Don't leave the door open for cybercriminals - a robust antivirus acts as an indispensable shield against digital infections.",
       "tips4": [
