@@ -83,7 +83,57 @@
         "Keep antivirus updated and patched",
         "Utilize extra security tools like VPNs"
     ]
+    },
+    "updating":{
+      "intro5": "From smartphones to laptops, the devices and apps we rely on every day are prime targets for cybercriminals looking to infiltrate systems and steal data. Manufacturers and developers release constant software updates and security patches to fix vulnerabilities and keep us safe. But too often, we delay or overlook these critical updates, leaving our devices exposed - something hackers are eager to take advantage of. Developing a routine of promptly updating your operating systems, apps, browsers, and other software is one of the easiest yet most vital defenses against cyber threats. Don't give attackers an easy opening. This tutorial will cover the essentials of upgrading security across your devices and apps. Fight back against cybercrime by always staying up-to-date!",
+      "tips5" : [
+        "Enable automatic updates for your operating systems and software when possible.",
+        "Periodically check for and install available updates if not set to automatic.",
+        "Update apps frequently, especially web browsers, security tools, and messaging apps.",
+        "Beware update fatigue - don't dismiss notifications because they seem frequent.",
+        "Restart or refresh devices after installing updates to ensure changes take effect."
+        ],
+      "keyTakeaways5": [
+        "Always accept recommended updates ASAP",
+        "Set automatic updates where possible",
+        "Prioritize security software and browsers",
+        "Backup data frequently"
+      ]
+    },
+    "publicWiFi": {
+      "intro6": "Public WiFi networks at coffee shops, hotels, airports, and other locations may seem convenient, but they come with serious cybersecurity risks that can leave your information vulnerable. Connecting to unsecured public networks provides an open door for criminals to sneak in and steal your data through spoofing, snooping, and other attacks. It's critical to understand the hazards of using public WiFi and take steps to protect yourself, like avoiding sensitive activities or using a VPN. With work, school, and social life driving more activity online, caution is required to prevent a casual connection from turning into a cybersecurity nightmare. This tutorial will get you up to speed on public WiFi risks and how you can defend yourself from threat actors.",
+      "tips6": [
+        "Avoid accessing financial accounts or sharing private info over public networks.",
+        "Check for HTTPS and padlock icon before entering logins or credit card details.",
+        "Use a VPN to encrypt your connection and mask your IP address.",
+        "Turn off auto-connect settings to avoid connecting inadvertently.",
+        "Verify the WiFi name, many fake networks are set up to eavesdrop."
+      ],
+      "keyTakeaways6": [
+        "Avoid sensitive activity like banking or shopping",
+        "Use a trusted VPN on all public networks",
+        "Turn off auto-connect settings on devices",
+        "Verify the legitimacy of unknown hotspots"
+      ]
+    },
+    "twoFA" : {
+      "intro7": "Your passwords are the keys to your online accounts, but single-factor authentication relying only on passwords leaves your accounts profoundly vulnerable. Enabling two-factor authentication (2FA) adds an extra layer of security beyond passwords by requiring you to verify your identity in two ways when logging in. With hacking techniques growing more devious each day, 2FA provides indispensable protection for all your important accounts by combining your password with a secondary credential like a code from your phone. Adopting 2FA universally guards against password breaches, phishing, and unauthorized access. This tutorial outlines how to set up and consistently use 2FA to lock the cybercriminals out. Don't make it easy for them - properly securing your online identity begins with two-factor!",
+      "tips7": [
+        "Enable 2FA on email, financial, e-commerce, social media, and other important accounts.",
+        "Use an authenticator app or SMS text messages for the secondary login code.",
+        "Save recovery keys/one-time codes in case you lose your 2FA device.",
+        "Check 2FA options like hardware keys for enhanced security.",
+        "Only enter 2FA codes into official account provider sites."
+      ],
+      "keyTakeaways7": [
+        "Enable 2FA via SMS, authenticator apps, and hardware keys",
+        "Use for email, finance, social, shopping, and more",
+        "Save backup recovery codes in a secure place",
+        "Check 2FA options for enhanced security"
+      ]
+      
     }
+    
     
   }
 }
