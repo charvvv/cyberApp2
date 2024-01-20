@@ -50,7 +50,7 @@
         "Avoid sites with misspellings or typos"
       ]
     },
-    "phising": {
+    "phishing": {
       "intro": "Phishing is one of the most common and dangerous cyber threats facing internet users today. These sophisticated scams use social engineering techniques to fool victims into handing over sensitive information and can result in identity theft, financial fraud, and compromised accounts. It is critical that you be able to recognize the hallmark signals of a phishing attempt so you can avoid being duped. Criminals have gotten extremely skilled at creating authentic looking messages, websites, and communications that users unfortunately fall for. A little awareness and vigilance goes a long way in protecting yourself. This tutorial will cover the variety of ways phishing can occur over email, text, social media, and websites. I'll also provide key indicators to watch for and steps you can take to vet legitimacy before responding or clicking on anything suspicious. Don't let scammers catch you off guard - you can outsmart them by learning their tricks.",
       "tips": [
         "Watch for suspicious links sent via email, text or social media messages. Don't click on them.",
